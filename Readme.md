@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to determine the clicked cell within the OnContextMenu client-side event
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e64/)**
+<!-- run online end -->
 
 
 <p>To obtain a clicked cell, you should handle the HtmlDataCellPrepared event and subscribe to the cell's oncontextmenu event.</p>
